@@ -28,6 +28,8 @@ Privacy-first: all processing stays local, no data sent to third-party servers. 
 
 Upgrade to the Pro version for **$34.99** and unlock all premium features.
 
+**[Buy on Gumroad](https://devforgetools.gumroad.com/l/aznix)** — Instant download, lifetime updates
+
 **[Buy Now (Stripe)](https://buy.stripe.com/5kQfZh5iT1g03lm0VecZf2w)** — Secure checkout
 
 ## Installation
@@ -39,6 +41,7 @@ Upgrade to the Pro version for **$34.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://devforgetools.gumroad.com/l/aznix)
 
 ## License
 
